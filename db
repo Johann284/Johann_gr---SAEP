@@ -1,6 +1,6 @@
 CREATE DATABASE SAEP_DB_johanngr;
 USE SAEP_DB_johanngr;
-
+--asdas
 CREATE TABLE usuarios(
 id_usuario INT PRIMARY KEY auto_increment NOT NULL,
 nome_usuario VARCHAR(90) NOT NULL,
